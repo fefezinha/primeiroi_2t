@@ -1,6 +1,34 @@
 body {
-  background: pink;
-}
-h1 {
-  text-align: center;
-}
+    background: lightcoral;
+  
+  }
+  h1{
+    text-align: center;
+  }
+   .caixa1 {
+     position: absolute;
+     background: rgb(109, 231, 227);
+     width: 200px;
+     height: 200px;
+     left: 78%;
+     right: 0%;
+     bottom:12;
+   }
+   .caixa2 {
+     position: absolute;
+     background: rgb(224, 138, 207);
+     width: 200px;
+     height: 200px;
+     left: 50%;
+     right: 0%;
+     bottom:12;
+   }
+   .menuPrincipal{
+     position: absolute;
+     width: 100;
+     height: 45px;
+     background: rgb(123, 217, 230);
+     top: 0%;
+     left: 0%;
+   }
+  
